@@ -18,7 +18,7 @@ public class Main {
 		window.setVisible(true);
 		
 		gamePanel.startGameThread();
-		//what
+		//git test
 	}
 
 }
